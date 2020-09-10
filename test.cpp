@@ -38,7 +38,7 @@
 #include <string>
 #include "picosha2.h"
 
-#define SCREEN_WIDTH  640.0    // Set for landscape mode, don't remove the decimal place!
+#define SCREEN_WIDTH  640.0    // Set for landscape mode, don't remove the decimal place!a
 #define SCREEN_HEIGHT 384.0
 
 WiFiMulti wifiMulti;
